@@ -1,0 +1,5 @@
+wget http://files1.directadmin.com/services/custombuild/cmake-2.8.11.tar.gz
+#tar xzf cmake-2.8.11.tar.gz
+#./configure
+#make
+#make install
